@@ -24,6 +24,39 @@ const defaultData = {
     voteScore: -5,
     deleted: false,
     commentCount: 0
+  },
+  "1ni6ok3ym7mf1p33lnez": {
+    id: '1ni6ok3ym7mf1p33lnez',
+    timestamp: 1468479767190,
+    title: 'Teste 1',
+    body: 'Just kidding. It takes more than 10 minutes to learn technology.',
+    author: 'thingone',
+    category: 'redux',
+    voteScore: 5,
+    deleted: false,
+    commentCount: 0
+  },
+  "2ni6ok3ym7mf1p33lnez": {
+    id: '2ni6ok3ym7mf1p33lnez',
+    timestamp: 1468479767190,
+    title: 'Teste 2',
+    body: 'Just kidding. It takes more than 10 minutes to learn technology.',
+    author: 'thingone',
+    category: 'redux',
+    voteScore: 0,
+    deleted: false,
+    commentCount: 0
+  },
+  "3ni6ok3ym7mf1p33lnez": {
+    id: '3ni6ok3ym7mf1p33lnez',
+    timestamp: 1468479767190,
+    title: 'Teste 3',
+    body: 'Just kidding. It takes more than 10 minutes to learn technology.',
+    author: 'thingone',
+    category: 'redux',
+    voteScore: -1,
+    deleted: false,
+    commentCount: 0
   }
 }
 
