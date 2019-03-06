@@ -27,7 +27,7 @@ const defaultData = {
   },
   "1ni6ok3ym7mf1p33lnez": {
     id: '1ni6ok3ym7mf1p33lnez',
-    timestamp: 1468479767190,
+    timestamp: 1468469767190,
     title: 'Teste 1',
     body: 'Just kidding. It takes more than 10 minutes to learn technology.',
     author: 'thingone',
@@ -49,7 +49,7 @@ const defaultData = {
   },
   "3ni6ok3ym7mf1p33lnez": {
     id: '3ni6ok3ym7mf1p33lnez',
-    timestamp: 1468479767190,
+    timestamp: 1368479767190,
     title: 'Teste 3',
     body: 'Just kidding. It takes more than 10 minutes to learn technology.',
     author: 'thingone',
